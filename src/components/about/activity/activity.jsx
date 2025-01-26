@@ -1,4 +1,4 @@
-import "./activity.css";
+import "./activity.scss";
 import Image from "next/image";
 
 export default function Activity() {

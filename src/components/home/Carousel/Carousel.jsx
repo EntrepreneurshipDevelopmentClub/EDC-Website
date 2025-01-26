@@ -1,6 +1,6 @@
 "use client";
 
-import "./Carousel.css";
+import "./Carousel.scss";
 import { useState, useEffect } from "react";
 import Image from "next/image";
 

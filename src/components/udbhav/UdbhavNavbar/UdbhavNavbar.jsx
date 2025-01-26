@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Twirl as Hamburger } from "hamburger-react";
 import Image from "next/image"; 
 
-import "./UdbhavNavbar.css";
+import "./UdbhavNavbar.scss";
 
 export default function Navbar() {
     const [sidebar, setSidebar] = useState(false);
