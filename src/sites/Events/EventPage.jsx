@@ -1,5 +1,13 @@
-import { EventSection } from "@components/events";
-
+import { UpcomingEvents, CompletedEvents } from "@components/events";
+import { Navbar } from "@/components/globals";
 export default function Event() {
-    return <EventSection />;
+    return (
+        <>
+            <Navbar/>
+            <main className="events">
+                <UpcomingEvents />
+                <CompletedEvents />
+            </main>
+        </>
+    );
 }

@@ -1,5 +1,5 @@
 "use client";
-import "./UdbhavHero.css";
+import "./UdbhavHero.scss";
 
 export default function Hero() {
     return (

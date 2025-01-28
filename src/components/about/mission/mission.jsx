@@ -1,4 +1,4 @@
-import "./mission.css";
+import "./mission.scss";
 import Image from "next/image";
 
 export default function Mission() {
@@ -17,7 +17,12 @@ export default function Mission() {
                 <div className="gradient-cards">
                     <div className="card">
                         <div className="mission-container-card bg-green-box">
-                            <Image src="/assets/mission/bulb.png" height={250} width={250} alt="" />
+                            <Image
+                                src="/assets/mission/bulb.png"
+                                height={250}
+                                width={250}
+                                alt=""
+                            />
                             <p className="card-title">
                                 1. Inspiring Creativity
                             </p>
@@ -31,7 +36,12 @@ export default function Mission() {
 
                     <div className="card">
                         <div className="mission-container-card bg-white-box">
-                            <Image src="/assets/mission/collab.png" height={250} width={320} alt="" />
+                            <Image
+                                src="/assets/mission/collab.png"
+                                height={250}
+                                width={320}
+                                alt=""
+                            />
                             <p className="card-title">
                                 2. Fostering Collaboration
                             </p>
@@ -45,7 +55,12 @@ export default function Mission() {
 
                     <div className="card">
                         <div className="mission-container-card bg-yellow-box">
-                            <Image src="/assets/mission/skills.png" height={280} width={280} alt="" />
+                            <Image
+                                src="/assets/mission/skills.png"
+                                height={280}
+                                width={280}
+                                alt=""
+                            />
                             <p className="card-title">
                                 3. Developing Practical Skills
                             </p>
@@ -59,7 +74,12 @@ export default function Mission() {
 
                     <div className="card">
                         <div className="mission-container-card bg-blue-box">
-                            <Image src="/assets/mission/enterpreneur.png" height={280} width={280} alt="" />
+                            <Image
+                                src="/assets/mission/enterpreneur.png"
+                                height={280}
+                                width={280}
+                                alt=""
+                            />
                             <p className="card-title">
                                 4. Creating Entrepreneurs
                             </p>

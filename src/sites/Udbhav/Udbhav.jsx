@@ -1,5 +1,5 @@
 import { UdbhavNavbar, UdbhavHero } from "@components/udbhav";
-import "./Udbhav.css";
+import "./Udbhav.scss";
 export default function Udbhav() {
     return (
         <div>

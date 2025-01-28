@@ -1,5 +1,5 @@
 
-import "./joinUs.css";
+import "./joinUs.scss";
 
 export default function JoinUs() {
     return (
