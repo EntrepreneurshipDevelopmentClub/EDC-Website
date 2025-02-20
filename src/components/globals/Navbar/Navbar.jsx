@@ -1,8 +1,6 @@
 import "./Navbar.scss";
 import Image from "next/image";
 import Link from "next/link";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faBars } from "@fortawesome/free-solid-svg-icons";
 
 const Navbar = () => {
     return (
@@ -17,7 +15,7 @@ const Navbar = () => {
             </div>
             <input type="checkbox" id="check" />
             <label htmlFor="check" className="checkbtn">
-                <FontAwesomeIcon icon={faBars} />
+                <i className="fa-solid fa-bars"></i>
             </label>
 
             <ul className="list">
