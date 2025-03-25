@@ -4,8 +4,8 @@ export default function TeamSection() {
     return (
         <section>
             <h2>Meet the Team</h2>
-            <div className="tem">
-                {teamdata.map((teamMember, index) => (
+            <div className="team">
+                   {teamdata.map((teamMember, index) => (
                     <TeamComponent key={index} {...teamMember} />
                 ))}
             </div>
