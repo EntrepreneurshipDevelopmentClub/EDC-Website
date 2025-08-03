@@ -1,0 +1,9 @@
+.gallery-section {
+    padding:14vh;
+}
+
+@media (max-width: 479px) {
+  .gallery-section {
+    padding: 7vh 0;
+  }
+}
