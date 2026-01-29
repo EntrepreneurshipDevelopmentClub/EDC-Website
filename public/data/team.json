@@ -50,13 +50,13 @@
     {
         "name": "Dibyojit Paul",
         "email": "paul.dibyojit2005@gmail.com",
-        "image":"member\\Core\\DIBYOJIT PAUL.jpeg",
+        "image":"member\\Core\\dibyojit.png",
         "type":"web",
         "position":"Website Incharge",
         "Module": "B Tech",
         "Year": "2nd Year",
         "Branch": "CSE ",
-        "Github": "Yuuki-Nagisa",
+        "Github": "___y_u_u_k_i___",
         "LinkedIn":"dibyojit-paul",
         "Instagram":"yuuki_nagisa_"
     },
@@ -110,7 +110,7 @@
     },
     {
     "name": "Harsh K. Chaudhary",
-    "image": "member\\Core\\Harsh choudhury.png",
+    "image": "member\\Core\\Harsh choudhury.jpg",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -218,7 +218,7 @@
     },
   {
     "name": "Diganta Sen",
-    "image": "member\\Core\\Diganta Sen.png",
+    "image": "member\\Core\\Diganta Sen.jpg",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -449,7 +449,7 @@
   },
   {
     "name": "Yuvraj Dey",
-    "image": "member\\Core\\Yuvraj.png",
+    "image": "member\\Core\\YUVRAJ.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -462,7 +462,7 @@
   },
   {
     "name": "Priyanshu Dey",
-    "image": "member\\Core\\Priyanshu dey png.png",
+    "image": "member\\Core\\Priyanshu Dey png.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -475,7 +475,7 @@
   },
   {
     "name": "Jitabhara Dutta",
-    "image": "member\\Core\\Jitabhara Dutta.png",
+    "image": "member\\Core\\jitabhara dutta.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -501,7 +501,7 @@
   },
   {
     "name": "Priyanka Jatav",
-    "image": "member\\Core\\Priyanka.png",
+    "image": "member\\Core\\priyanka.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -514,7 +514,7 @@
   },
   {
     "name": "Shreya Kumari",
-    "image": "member\\Core\\Shreya.png",
+    "image": "member\\Core\\shreya.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -527,7 +527,7 @@
   },
   {
         "name": "Bhargab Bhagaban Medhi",
-        "image":"member\\Core\\Bastav.png",
+        "image":"member\\Core\\bastav.png",
         "email": "bhargavmedhi19@gmail.com",
         "type":"core",
         "Module": "B Tech",
@@ -565,7 +565,7 @@
  {
         "name": "Gitartha Singha ",
         "email": "u24ce1010@cit.ac.in",
-        "image":"member\\Core\\GITARTHA.png",
+        "image":"member\\Core\\gitartha.png",
         "type":"core",
         "Module": "B Tech",
         "position":"Event Coordinator",
@@ -602,7 +602,7 @@
   },
  {
     "name": "Anurag Barman",
-    "image": "public/member/Core/ajit.png",
+    "image": "member\\Core\\anurag.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -628,7 +628,7 @@
   },
   {
     "name": "Shauranga Kumar Bonia",
-    "image": "member\\Core\\Shauranga kb.png",
+    "image": "member\\Core\\shauranaga kb.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -642,7 +642,7 @@
     {
         "name": "Sumit Kumar Shah",
         "type":"core",  
-        "image":"member\\Core\\SUMIT.png",
+        "image":"member\\Core\\sumit.png",
         "email": "u24fet1052@cit.ac.in",
         "Module": "B Tech",
         "position":"Event Coordinator",
@@ -653,7 +653,7 @@
     },
   {
     "name": "Archana Basumatary",
-    "image": "public/member/Core/Archana.png",
+    "image": "member\\Core\\Archana.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -666,7 +666,7 @@
   },
   {
     "name": "Auri Baishya",
-    "image": "member\\Core\\Auri.png",
+    "image": "member\\Core\\AURI.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -679,7 +679,7 @@
   },
   {
         "name": "Bastav Jyoti Dutta",
-        "image":"member\\Core\\Bhargav.png",
+        "image":"member\\Core\\Bhargab.png",
         "email": "bhargavmedhi19@gmail.com",
         "type":"core",
         "Module": "B Tech",
@@ -692,7 +692,7 @@
     {
         "name": "Bharnab Kalita",
         "email": "u24ce1036@cit.ac.in",
-        "image":"member\\Core\\Bharnab.png",
+        "image":"member\\Core\\bharnab.png",
         "type":"core",
         "Module": "B Tech",
         "position":"Event Coordinatorr",
@@ -703,7 +703,7 @@
     {
         "name": "Pragyan Bikash Deka",
         "email": null,
-        "image":"member\\Core\\PRAGYAN.png",
+        "image":"member\\Core\\pragyan.png",
         "type":"core",
         "position":"Co-ordinator",
         "Module": "B Tech",
@@ -728,7 +728,7 @@
   },
   {
     "name": "Gauree Brahma",
-    "image": "member\\Core\\Gauree.png",
+    "image": "member\\Core\\gauree.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -767,7 +767,7 @@
   },
   {
     "name": "Arnab Talukdar",
-    "image": "public/member/Core/Arnab Talukdar.png",
+    "image": "member\\Core\\Arnab Talukdar.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -793,7 +793,7 @@
     {
         "name": "Swarnamika Deka ",
         "email": "u23ce1010@cit.ac.in",
-        "image":"member\\Core\\SWARNAMIKA D.png",
+        "image":"member\\Core\\Swarnamika D.png",
         "type":"core",
         "Module": "B Tech",
         "position":"Logistics Coordinator",
@@ -829,7 +829,7 @@
     },
     {
     "name": "Pratyush Nandan",
-    "image": "member\\Core\\Pratyush.png",
+    "image": "member\\Core\\pratyush.png",
     "email": " ",
     "type": "core",
     "Module": " ",
