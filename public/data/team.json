@@ -110,7 +110,7 @@
     },
     {
     "name": "Harsh K. Chaudhary",
-    "image": " ",
+    "image": "member\\Core\\Harsh choudhury.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -135,7 +135,7 @@
 {
     "name": "Bibek Bayan",
     "email": "u22ie1022@cit.ac.in",
-    "image":"member\\Core\\BIBEK BAYAN.jpg",
+    "image":"member\\Core\\Bibek Bayan.jpg",
     "type":"core",
     "position":"Club Advisor",
     "Module": "B Tech",
@@ -184,7 +184,7 @@
     {
         "name": "Kuldeep Dekaraja ",
         "email": "kuldeepdekaraja@gmail.com",
-        "image":"member\\Core\\Kuldeep.png",
+        "image":"member\\Core\\kuldeep.png",
         "type":"core",
         "Module": "Diploma",
         "position":"Media Convener",
@@ -196,7 +196,7 @@
     {
         "name": "Kishore Sonu Guria ",
         "email": "u23ece1056@cit.ac.in",
-        "image":"member\\Core\\KISHORE GURIA.png",
+        "image":"member\\Core\\Kishore Guria.png",
         "type":"core",
         "position":"Technical Convener",
         "Module": "B Tech",
@@ -209,7 +209,7 @@
         "name": "Vikram Kalita",
         "email": "u23ce3089@cit.ac.in",
         "type":"core",
-        "image":"member\\Core\\VIKRAM.png",
+        "image":"member\\Core\\vikram.png",
         "position":"PR Convenor",
         "Module": "B Tech",
         "Year": "3rd Year",
@@ -218,7 +218,7 @@
     },
   {
     "name": "Diganta Sen",
-    "image": " ",
+    "image": "member\\Core\\Diganta Sen.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -243,7 +243,7 @@
     },
    {
     "name": "Swarajit Dutta",
-    "image": "member\\Core\\Swarnjit.png",
+    "image": "member\\Core\\swarnjit.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -321,7 +321,7 @@
   },
   {
     "name": "MD Sultan",
-    "image": "member\\Core\\sultan.png",
+    "image": "member\\Core\\Sultan.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -334,7 +334,7 @@
   },
   {
     "name": "Pritam Sutradhar",
-    "image": "member\\Core\\Pratim.png",
+    "image": "member\\Core\\pratim.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -347,7 +347,7 @@
   },
   {
     "name": "Shamim Masrur Khan",
-    "image": "member\\Core\\Shamim.png",
+    "image": "member\\Core\\Shamim MK.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -373,7 +373,7 @@
   },
   {
     "name": "Tania Barman",
-    "image": "member\\Core\\tanya.png",
+    "image": "member\\Core\\Tanya.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -386,7 +386,7 @@
   },
   {
     "name": "Kritishri Rabha",
-    "image": "member\\Core\\Kritishree.png",
+    "image": "member\\Core\\KRITISHREE.png",
     "email": " ",
     "type": "core",
     "Module": " ",
@@ -414,7 +414,7 @@
         "name": "Khushi Gupta ",
         "email": "u24fet1008@cit.ac.in ",
         "type":"core",
-        "image":"member\\Core\\khushi.png",
+        "image":"member\\Core\\KHUSHI.png",
         "position":"R&D Coordinator",
         "Module": "B Tech",
         "Year": "2nd Year",
@@ -425,7 +425,7 @@
     {
         "name": "Nabaneet Kaushik Bora",
         "type":"core",  
-        "image":"member\\Core\\NABANEE5T.png",
+        "image":"member\\Core\\nabanee5t.png",
         "email": "u24ce1046@cit.ac.in",
         "Module": "B Tech",
         "position":"R&D Coordinator",
