@@ -23,7 +23,7 @@ export default function UdbhavHero() {
             Udbhav 2026
           </h1>
           <p className="event-subtitle animate__animated animate__fadeInUp">
-            Where Innovation Meets Creativity
+            Circle of Innovators
           </p>
         </div>
       </div>
