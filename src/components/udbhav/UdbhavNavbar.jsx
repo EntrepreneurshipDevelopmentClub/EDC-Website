@@ -24,8 +24,8 @@ const UdbhavNavbar = () => {
             <Image
               src="/udbhav/logo/logo 2.png"
               alt="Logo"
-              width={100}
-              height={80}
+              width={250}
+              height={100}
               className="esmt-icon"
             />
           </Link>
@@ -61,14 +61,19 @@ const UdbhavNavbar = () => {
               Register
             </Link>
           </li>
-           <li>
+          <li>
             <Link href="/sponsors" onClick={showSidebar}>
-              Sponsors
+              Previous Sponsors
             </Link>
           </li>
-           <li>
+          <li>
             <Link href="/competition" onClick={showSidebar}>
               Competition
+            </Link>
+          </li>
+          <li>
+            <Link href="#unpstop" target="_blank" onClick={showSidebar}>
+              Campus Ambassador
             </Link>
           </li>
           {/* <li><span className="nav-attr">emerge. evolve. exceed.</span></li> */}

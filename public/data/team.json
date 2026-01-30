@@ -563,18 +563,6 @@
     "Instagram": null,
     "Github": null
   },
- {
-        "name": "Gitartha Singha ",
-        "email": "u24ce1010@cit.ac.in",
-        "image":"member\\Core\\gitartha.png",
-        "type":"core",
-        "Module": "B Tech",
-        "position":"Event Coordinator",
-        "Year": "2nd Year",
-        "Branch": "CE ",
-        "Instagram": "gitartha_singha_",
-        "LinkedIn": "gitartha-singha-8b7059320"
-    },
      {
     "name": "Ayush Basfor",
     "image": "member\\Core\\Ayush B.png",
@@ -712,21 +700,7 @@
         "Branch": "CE ",
         "Instagram": "pragyanbdeka",
         "LinkedIn": null
-    }
-    ,
-    {
-    "name": "Nataksha Basumatary",
-    "image": "member\\Core\\Nataksha.png",
-    "email": " ",
-    "type": "core",
-    "Module": " ",
-    "Year": " ",
-    "position": "Hospitality Coordinator",
-    "Branch": " ",
-    "LinkedIn": null,
-    "Instagram": null,
-    "Github": null
-  },
+    },
   {
     "name": "Gauree Brahma",
     "image": "member\\Core\\gauree.png",
