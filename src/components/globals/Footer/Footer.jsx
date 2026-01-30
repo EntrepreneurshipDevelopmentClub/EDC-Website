@@ -15,7 +15,7 @@ const Footer = () => {
               width="40"
               height="40"
             />
-            <h4>E-Cell CIT Kokrajhar</h4>
+            <h4>EDC CIT Kokrajhar</h4>
           </div>
 
           <div className="copy">

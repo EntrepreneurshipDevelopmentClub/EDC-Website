@@ -42,26 +42,25 @@ export default function Sponsors() {
     <>
       <Navbar />
       <div className="sponsorpage">
+        <main className="sponsors">
+          <h1>Our Previous Sponsors</h1>
 
-      <main className="sponsors">
-        <h1>Our Sponsors</h1>
-
-        <div className="sponsor-grid">
-          {sponsors.map((sponsor, index) => (
-            <div className="sponsor-card" key={index}>
-              <div className="logo-placeholder">
-                <Image
-                  src={sponsor.logo}
-                  alt={sponsor.name}
-                  width={160}
-                  height={90}
-                />
+          <div className="sponsor-grid">
+            {sponsors.map((sponsor, index) => (
+              <div className="sponsor-card" key={index}>
+                <div className="logo-placeholder">
+                  <Image
+                    src={sponsor.logo}
+                    alt={sponsor.name}
+                    width={160}
+                    height={90}
+                  />
+                </div>
+                <p>{sponsor.name}</p>
               </div>
-              <p>{sponsor.name}</p>
-            </div>
-          ))}
-        </div>
-      </main>
+            ))}
+          </div>
+        </main>
       </div>
 
       <Footer />
